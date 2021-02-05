@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eaee8c9-c2c1-42c0-bd1b-03fa6ecb0f97" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="middleware" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eizX5YlopyHcIeD7ZQIFE5gtZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Rabb&#9;FILE&#9;file://E:/MiddlewareBookCodeLibrary/middleware/server/src/main/java/com/debug/middleware/server/config/RabbitmqConfig.java&#10;rabbit&#9;FILE&#9;file://E:/MiddlewareBookCodeLibrary/middleware/server/src/test/java/com/debug/middleware/server/RabbitmqTest.java&#10;applica&#9;FILE&#9;file://E:/MiddlewareBookCodeLibrary/middleware/server/src/main/resources/application.properties&#10;application.pro&#9;FILE&#9;file://E:/MiddlewareBookCodeLibrary/middleware/server/src/main/resources/application.properties" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../mq2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.debug.middleware.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.middleware.server.rabbitmq.publisher" />
+      <recent name="com.debug.middleware.server.config" />
+      <recent name="com.debug.middleware.api.response" />
+      <recent name="com.debug.middleware.api.enums" />
+      <recent name="com.debug.middleware.server.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MiddlewareBookCodeLibrary\middleware\model\src\main\java\com\debug\middleware\model\entity" />
+      <recent name="E:\MiddlewareBookCodeLibrary\middleware\model\src\main\java\com\debug\middleware\model\mapper" />
+      <recent name="E:\MiddlewareBookCodeLibrary\middleware\model\src\main\resources\mappers" />
+      <recent name="E:\MiddlewareBookCodeLibrary\middleware\server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RabbitmqTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.middleware.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.debug.middleware.server" />
+      <option name="MAIN_CLASS_NAME" value="com.debug.middleware.server.RabbitmqTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.middleware.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.debug.middleware.server" />
+      <option name="MAIN_CLASS_NAME" value="com.debug.middleware.server.RabbitmqTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.middleware.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.debug.middleware.server" />
+      <option name="MAIN_CLASS_NAME" value="com.debug.middleware.server.RabbitmqTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.middleware.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.debug.middleware.server" />
+      <option name="MAIN_CLASS_NAME" value="com.debug.middleware.server.RabbitmqTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.middleware.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.debug.middleware.server" />
+      <option name="MAIN_CLASS_NAME" value="com.debug.middleware.server.RabbitmqTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.middleware.server.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RabbitmqTest.test3" />
+      <item itemvalue="JUnit.RabbitmqTest.test4" />
+      <item itemvalue="JUnit.RabbitmqTest.test5" />
+      <item itemvalue="JUnit.RabbitmqTest.test6" />
+      <item itemvalue="JUnit.RabbitmqTest.test7" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RabbitmqTest.test7" />
+        <item itemvalue="JUnit.RabbitmqTest.test6" />
+        <item itemvalue="JUnit.RabbitmqTest.test5" />
+        <item itemvalue="JUnit.RabbitmqTest.test4" />
+        <item itemvalue="JUnit.RabbitmqTest.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eaee8c9-c2c1-42c0-bd1b-03fa6ecb0f97" name="Default" comment="" />
+      <created>1551499030910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551499030910</updated>
+      <workItem from="1551499032741" duration="15491000" />
+      <workItem from="1551708549855" duration="1294000" />
+      <workItem from="1551872525395" duration="2082000" />
+      <workItem from="1551885935925" duration="87000" />
+      <workItem from="1551962876482" duration="599000" />
+      <workItem from="1552187386303" duration="21902000" />
+      <workItem from="1552736551047" duration="20403000" />
+      <workItem from="1553167982583" duration="26110000" />
+      <workItem from="1553819260515" duration="21293000" />
+      <workItem from="1554020016649" duration="21990000" />
+      <workItem from="1554554174288" duration="10424000" />
+      <workItem from="1554609014446" duration="13943000" />
+      <workItem from="1594819240700" duration="9343000" />
+      <workItem from="1594950618237" duration="1170000" />
+      <workItem from="1595396394013" duration="195000" />
+      <workItem from="1595396663376" duration="1834000" />
+      <workItem from="1595902196806" duration="1725000" />
+      <workItem from="1596417210279" duration="3310000" />
+      <workItem from="1597021720038" duration="1854000" />
+      <workItem from="1597626328733" duration="1507000" />
+      <workItem from="1598507398592" duration="585000" />
+      <workItem from="1599805523270" duration="592000" />
+      <workItem from="1600052834867" duration="599000" />
+      <workItem from="1600486355344" duration="598000" />
+      <workItem from="1600681359051" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RabbitmqTest_test5 - 2019.04.01 at 23h 14m 51s.xml">
+      <configuration name="RabbitmqTest.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test5 - 2019.04.01 at 23h 17m 46s.xml">
+      <configuration name="RabbitmqTest.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test5 - 2019.04.01 at 23h 21m 17s.xml">
+      <configuration name="RabbitmqTest.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test5 - 2019.04.01 at 23h 26m 20s.xml">
+      <configuration name="RabbitmqTest.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test6 - 2019.04.07 at 08h 39m 39s.xml">
+      <configuration name="RabbitmqTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test6 - 2019.04.07 at 10h 40m 59s.xml">
+      <configuration name="RabbitmqTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test7 - 2019.04.07 at 11h 28m 16s.xml">
+      <configuration name="RabbitmqTest.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test7 - 2019.04.07 at 11h 28m 56s.xml">
+      <configuration name="RabbitmqTest.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test7 - 2019.04.07 at 11h 30m 24s.xml">
+      <configuration name="RabbitmqTest.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitmqTest_test7 - 2019.04.07 at 14h 20m 32s.xml">
+      <configuration name="RabbitmqTest.test7" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1371" y="179" width="822" height="851" key="#Project_Structure" timestamp="1594898307594">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1371" y="179" key="#Project_Structure/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594898307594" />
+    <state x="549" y="179" width="822" height="851" key="#Project_Structure/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594896400218" />
+    <state x="-1158" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1594903276121">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1158" y="197" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903276121" />
+    <state x="762" y="197" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594819312230" />
+    <state x="2797" y="403" key="FileChooserDialogImpl" timestamp="1597197985645">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1043" y="392" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594949019553" />
+    <state x="2797" y="403" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597197985645" />
+    <state width="1876" height="504" key="GridCell.Tab.0.bottom" timestamp="1594903793339">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793339" />
+    <state width="1876" height="504" key="GridCell.Tab.0.center" timestamp="1594903793339">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793339" />
+    <state width="1876" height="504" key="GridCell.Tab.0.left" timestamp="1594903793338">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793338" />
+    <state width="1876" height="504" key="GridCell.Tab.0.right" timestamp="1594903793339">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793339" />
+    <state width="1876" height="504" key="GridCell.Tab.1.bottom" timestamp="1594903793663">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.1.bottom/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793663" />
+    <state width="1876" height="504" key="GridCell.Tab.1.center" timestamp="1594903793663">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.1.center/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793663" />
+    <state width="1876" height="504" key="GridCell.Tab.1.left" timestamp="1594903793663">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.1.left/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793663" />
+    <state width="1876" height="504" key="GridCell.Tab.1.right" timestamp="1594903793663">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.1.right/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903793663" />
+    <state width="1876" height="504" key="GridCell.Tab.2.bottom" timestamp="1594903794118">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.2.bottom/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903794118" />
+    <state width="1876" height="504" key="GridCell.Tab.2.center" timestamp="1594903794118">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.2.center/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903794118" />
+    <state width="1876" height="504" key="GridCell.Tab.2.left" timestamp="1594903794118">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.2.left/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903794118" />
+    <state width="1876" height="504" key="GridCell.Tab.2.right" timestamp="1594903794118">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="504" key="GridCell.Tab.2.right/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903794118" />
+    <state x="2357" y="98" key="SettingsEditor" timestamp="1597829939517">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="437" y="95" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594819260166" />
+    <state x="2357" y="98" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597829939517" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1596420341983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1595399695559" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1596420341983" />
+    <state x="-1294" y="260" width="667" height="560" key="find.popup" timestamp="1594903815884">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1294" y="260" width="667" height="560" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903815884" />
+    <state x="-1452" y="244" key="new project wizard" timestamp="1594899017148">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1452" y="244" key="new project wizard/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594899017148" />
+    <state x="-1307" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1594903386010">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1307" y="179" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594903386010" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/com/debug/middleware/server/CommonTest.java</url>
+          <line>59</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/com/debug/middleware/server/CommonTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/middleware/server/rabbitmq/publisher/BasicPublisher.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

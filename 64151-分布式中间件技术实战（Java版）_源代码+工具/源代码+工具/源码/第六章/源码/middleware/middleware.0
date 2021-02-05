@@ -1,0 +1,4 @@
+[2019-04-13 10:27:36.353] - 14152 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2019-04-13 10:27:36.356] - 14152 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet Engine: Apache Tomcat/8.5.16
+[2019-04-13 10:27:36.469] - 14152 信息 [localhost-startStop-1] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/middleware]: Initializing Spring embedded WebApplicationContext
+[2019-04-13 10:28:32.985] - 14152 信息 [http-nio-8087-exec-1] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/middleware]: Initializing Spring FrameworkServlet 'dispatcherServlet'
